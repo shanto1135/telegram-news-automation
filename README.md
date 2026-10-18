@@ -25,4 +25,4 @@ The objective of this project was to build a hands-free, automated news delivery
 - Add an AI layer to summarize the news before sending.
 
 ## 📸 Screenshot :
-![Zapier Workfl](screenshot.png)
+![Zapier Workfl](screenshot.jpg)
