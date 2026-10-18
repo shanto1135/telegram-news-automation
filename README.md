@@ -1,5 +1,3 @@
-# telegram-news-automation
-Zapier, RSS & Telegram API based news delivery bot.
 # Automated News Delivery Bot (Zapier + RSS + Telegram)
 
 A no-code automation workflow designed to fetch real-time news from RSS feeds and deliver them directly to a Telegram bot. 
@@ -25,3 +23,6 @@ The objective of this project was to build a hands-free, automated news delivery
 - Implement a database (SQL) to store multiple user Chat IDs.
 - Convert this from a personal POC (Proof of Concept) to a public multi-user bot.
 - Add an AI layer to summarize the news before sending.
+
+## 📸 Screenshot :
+![Zapier Workfl](screenshot.png)
